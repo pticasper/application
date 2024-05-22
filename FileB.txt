@@ -1,2 +1,4 @@
 This is FileB
 This is a change to the file
+this is a change
+This is a another change
