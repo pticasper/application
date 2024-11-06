@@ -2,3 +2,4 @@ This is a FileB
 This is a change
 Let's make another change
 Squash merge change
+Another squash merge change
