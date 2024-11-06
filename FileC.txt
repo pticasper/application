@@ -1,2 +1,4 @@
 This is a FileC
 Make a change
+Squash merge change
+Another squash change
